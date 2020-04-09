@@ -15,6 +15,6 @@ dependencies:
   - tensorboard=1.14.0
   - torchvision=0.3.0
   - pip:
-    - git+https://github.com/salaniz/pycocoevalcap
+    - git+https://github.com/salaniz/pycocoevalcap@ca1b05fa0e99f86de2259f87d43c72b322523731
     - git+https://github.com/IBM/adversarial-robustness-toolbox.git@1.1.1
     - pycocotools==2.0.0
